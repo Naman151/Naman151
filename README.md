@@ -12,8 +12,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
-
 - 📫 How to reach me **namanshahi151@gmail.com**
 
 - 🎶 Fun fact **I like to write songs and play guitar.**
